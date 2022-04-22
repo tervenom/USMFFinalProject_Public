@@ -1,0 +1,5 @@
+In this repository are gathered data of the project that have the aim to reanalyze a part of transcriptomic data that originates from the work of Arunachalam et al. and is described in their journal article: Systems biological assessment of immunity to mild versus severe COVID-19 infection in humans. Their study sought to address the COVID-19 pandemic by investigating connections between the human immune response to SARS-CoV-2 and the severity of infection. To achieve this, they conducted RNA-Seq on bulk peripheral blood mononuclear cells (PBMCs) of both healthy and COVID-19 infected individuals. It is these two cohorts that served as the subject of our project.
+This repository contains three subdirectories:
+summarydata - folder with raw data, intermediate results obtained using bioinformatics programs, the reference file used in this analysis, and the final csv results file; 
+notebook - folder with commands, scripts, bioinformatics programs used for project data analysis; 
+figure - graphical plots obtained during the project.
